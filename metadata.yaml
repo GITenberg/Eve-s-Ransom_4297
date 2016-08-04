@@ -1,0 +1,30 @@
+_repo: Eve-s-Ransom_4297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gissing, George
+    alias: Gissing, George Robert
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '641'
+    url: http://www.gutenberg.org/2009/agents/641
+    wikipedia: http://en.wikipedia.org/wiki/George_Gissing
+description: One of the foremost fiction writers in the genre of Victorian realism,
+  George Gissing wrote several of the most notable novels of the era, including New
+  Grub Street and Born in Exile. The short novel Eve's Ransom is a classic story of
+  misbegotten love wherein an impressionable young man falls for -- and attempts desperately
+  to win over -- a woman who appears to be all wrong for him.
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction -- 19th century'
+- GITenberg
+title: Eve's Ransom
+url: http://www.gutenberg.org/ebooks/4297
