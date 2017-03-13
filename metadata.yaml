@@ -1,5 +1,8 @@
 _repo: Eve-s-Ransom_4297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gissing, George
@@ -14,6 +17,8 @@ description: One of the foremost fiction writers in the genre of Victorian reali
   Grub Street and Born in Exile. The short novel Eve's Ransom is a classic story of
   misbegotten love wherein an impressionable young man falls for -- and attempts desperately
   to win over -- a woman who appears to be all wrong for him.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4297#Eve-s-Ransom
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
